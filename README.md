@@ -1,2 +1,2 @@
-# OCR_LMP
-Encore un petit effort : https://topagrume.github.io/OCR_LMP/accueil.html
+# Decolor. - OELA
+Encore un petit effort : https://topagrume.github.io/decolor_web/accueil.html
