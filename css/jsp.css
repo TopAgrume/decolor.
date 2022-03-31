@@ -104,7 +104,7 @@ body {
   height: 40px;
   padding: 9px 0;
   top: calc(50% - 20px);
-  background: #fff9d5;
+  background: #ffffff;
   border: 2px solid #231f20;
   border-radius: 40px;
   text-align: center;
@@ -137,14 +137,14 @@ body {
   margin: 0 0 10px 0;
   font-size: 30px;
   font-weight: normal;
-  color: #fff9d5;
+  color: #ffffff;
 }
 
 .coontainer .content p {
   margin: 0;
   font-size: 16px;
   line-height: 22px;
-  color: #fff9d5;
+  color: #ffffff;
 }
 
 @media (max-width: 767.98px) {
