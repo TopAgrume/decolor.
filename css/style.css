@@ -16,7 +16,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   color: #828282;
-  background: #ffc75f;
+  background: #febb17;
 }
 
 #page {
@@ -814,7 +814,7 @@ form label {
   color: #4d4d4d;
 }
 .gtco-tabs .gtco-tab-nav li.active a {
-  background: #ffd78e;
+  background: #fff9D5;
   color: #231f20;
 }
 .gtco-tabs .gtco-tab-content-wrap {
@@ -876,13 +876,13 @@ form label {
 
 #gtco-try3 {
   background: #fff9d5;
-  background: -moz-linear-gradient(180deg, #ffc75f 0%, #0cf2ff 100%);
-  background: -webkit-gradient(top, bottom, color-stop(0%, #7985ff), color-stop(100%, #0cf2ff));
-  background: -webkit-linear-gradient(180deg, #7985ff 0%, #0cf2ff 100%);
-  background: -o-linear-gradient(180deg, #7985ff 0%, #0cf2ff 100%);
-  background: -ms-linear-gradient(180deg, #7985ff 0%, #0cf2ff 100%);
-  background: linear-gradient(180deg, #ffc75f 0%, #0cf2ff 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7985ff', endColorstr='#0cf2ff', GradientType=1 );
+  background: -moz-linear-gradient(180deg, #febb17 0%, #0cf2ff 100%);
+  background: -webkit-gradient(top, bottom, color-stop(0%, #febb17), color-stop(100%, #0cf2ff));
+  background: -webkit-linear-gradient(180deg, #febb17 0%, #0cf2ff 100%);
+  background: -o-linear-gradient(180deg, #febb17 0%, #0cf2ff 100%);
+  background: -ms-linear-gradient(180deg, #febb17 0%, #0cf2ff 100%);
+  background: linear-gradient(180deg, #febb17 0%, #0cf2ff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#febb17', endColorstr='#0cf2ff', GradientType=1 );
 }
 #gtco-try4 {
   background: #fff9d5;
