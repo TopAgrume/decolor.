@@ -876,13 +876,13 @@ form label {
 
 #gtco-try3 {
   background: #fff9d5;
-  background: -moz-linear-gradient(180deg, #febb17 0%, #0cf2ff 100%);
-  background: -webkit-gradient(top, bottom, color-stop(0%, #febb17), color-stop(100%, #0cf2ff));
-  background: -webkit-linear-gradient(180deg, #febb17 0%, #0cf2ff 100%);
-  background: -o-linear-gradient(180deg, #febb17 0%, #0cf2ff 100%);
-  background: -ms-linear-gradient(180deg, #febb17 0%, #0cf2ff 100%);
-  background: linear-gradient(180deg, #febb17 0%, #0cf2ff 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#febb17', endColorstr='#0cf2ff', GradientType=1 );
+  background: -moz-linear-gradient(180deg, #febb17 0%, #d75db2 100%);
+  background: -webkit-gradient(top, bottom, color-stop(0%, #febb17), color-stop(100%, #d75db2));
+  background: -webkit-linear-gradient(180deg, #febb17 0%, #d75db2 100%);
+  background: -o-linear-gradient(180deg, #febb17 0%, #d75db2 100%);
+  background: -ms-linear-gradient(180deg, #febb17 0%, #d75db2 100%);
+  background: linear-gradient(180deg, #febb17 0%, #d75db2 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#febb17', endColorstr='#d75db2', GradientType=1 );
 }
 #gtco-try4 {
   background: #fff9d5;
